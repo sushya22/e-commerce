@@ -1,6 +1,6 @@
 # E-commerce Data ETL
 
-Small ETL project for processing Olist datasets. The repo contains readers, an extractor, and a transformers.
+ETL project for processing Olist datasets. The repo contains readers, an extractor, and a transformers.
 
 
 Project structure
